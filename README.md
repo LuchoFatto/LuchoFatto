@@ -9,7 +9,7 @@
 
 - ⚙️ Lenguajes: **Python**, **Java**, **SQL**
 - 💻 Conocimientos básicos: **HTML**, **CSS**
-- 🧰 Herramientas: **Git**, **GitHub**, **VSCode**, **Postman**
+- 🧰 Herramientas: **Git**, **GitHub**, **VSCode**
 
 ---
 
