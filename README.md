@@ -1,16 +1,35 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Luciano
 
-<!--
-**LuchoFatto/LuchoFatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apasionado por la tecnología y el desarrollo de software.  
+🚀 Actualmente trabajo como **Support Analyst en el área de IT**, y estudio la **Tecnicatura Universitaria en Programación (UTN Avellaneda)**, con el objetivo de desarrollarme como profesional en el ámbito de la programación.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y herramientas
+
+- ⚙️ Lenguajes: **Python**, **Java**, **SQL**
+- 💻 Conocimientos básicos: **HTML**, **CSS**
+- 🧰 Herramientas: **Git**, **GitHub**, **VSCode**, **Postman**
+
+---
+
+### 📚 Formación
+
+- Estudiante de la **Tecnicatura Universitaria en Programación**
+- En constante aprendizaje de buenas prácticas de desarrollo, algoritmos y estructuras de datos
+- Interés en la automatización de tareas y soluciones tecnológicas eficientes
+
+---
+
+### ✨ Proyecto destacado
+
+🧩 [juego_pygame_fattoni](https://github.com/LuchoFatto/juego_pygame_fattoni.git)  
+Proyecto educativo desarrollado con **Python**, enfocado en la práctica de conceptos fundamentales de programación.
+
+---
+
+### 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/luciano-fattoni-4338b3277)  
+- 📧 luciano.fattoni@gmail.com  
+
