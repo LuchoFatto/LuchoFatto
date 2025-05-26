@@ -9,7 +9,7 @@
 
 - ⚙️ Lenguajes: **Python**, **Java**, **JavaScript**, **SQL**
 - 💻 Conocimientos básicos: **HTML**, **CSS**
-- 🛢️ Bases de datos: **MongoDB**
+- 🛢️ Bases de datos: **MongoDB**, **MySQL**
 - 🧰 Herramientas: **Git**, **GitHub**, **VSCode**
 
 ---
