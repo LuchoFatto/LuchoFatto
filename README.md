@@ -8,7 +8,7 @@
 ### 🛠️ Tecnologías y herramientas
 
 - ⚙️ Lenguajes: **Python**, **Java**, **JavaScript**, **SQL**
-- 💻 Conocimientos básicos: **HTML**, **CSS**
+- 💻 Conocimientos básicos: **HTML**, **Tailwind**
 - 🛢️ Bases de datos: **MongoDB**, **MySQL**
 - 🧰 Herramientas: **Git**, **GitHub**, **VSCode**
 
